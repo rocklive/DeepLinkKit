@@ -1,5 +1,5 @@
-@import DeepLinkKit.Private;
-@import DeepLinkKit.AppLinks;
+#import <DeepLinkKit/DeepLinkKit_Private.h>
+#import <DeepLinkKit/AppLinks.h>
 
 SpecBegin(DPLDeepLink_AppLinks)
 

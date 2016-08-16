@@ -1,4 +1,4 @@
-@import Foundation;
+#import <Foundation/Foundation.h>
 #import "DPLMatchResult.h"
 
 @interface DPLRegularExpression : NSRegularExpression
